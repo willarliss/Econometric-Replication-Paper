@@ -1,5 +1,5 @@
 # Econometric-Replication-Paper
-This is an academic report replicating the findings of Abdeljawad, Panjwani, and Ramani regarding the relationship between minimum wage and unemployment. The report is saved as final_draft.pdf. The research was performed in Stata and instructions for aggregating the data can be found in sections 4 and 5 of the report. Support work is included as .do files.
+This is an academic report replicating the findings of Abdeljawad, Panjwani, and Ramani regarding the relationship between minimum wage and unemployment. The report is saved as final_draft.pdf. The research was performed in Stata and instructions for aggregating the data can be found in sections 4 and 5 of the report. Support work is included as .do files (some files contain LaTeX coding).
 
 ### Abstract
 This paper replicates Abdeljawad, Panjwani, and Ramani, “Effects of Minimum Wage on Unemployment Rates Across the United States”,
